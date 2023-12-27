@@ -1,0 +1,5 @@
+../src/LED_ON_SWITCH_ASSIGNMENT.c:28:6:GPIOinitOut	16	static
+../src/LED_ON_SWITCH_ASSIGNMENT.c:48:6:GPIOinitInput	16	static
+../src/LED_ON_SWITCH_ASSIGNMENT.c:68:6:setGPIO	16	static
+../src/LED_ON_SWITCH_ASSIGNMENT.c:83:6:clearGPIO	16	static
+../src/LED_ON_SWITCH_ASSIGNMENT.c:97:5:main	16	static

@@ -1,0 +1,16 @@
+../src/Harish_Marepalli_016707314_3D_cube_sphere.c:82:6:spiwrite	24	static
+../src/Harish_Marepalli_016707314_3D_cube_sphere.c:95:6:writecommand	16	static
+../src/Harish_Marepalli_016707314_3D_cube_sphere.c:102:6:writedata	16	static
+../src/Harish_Marepalli_016707314_3D_cube_sphere.c:109:6:writeword	24	static
+../src/Harish_Marepalli_016707314_3D_cube_sphere.c:122:6:write888	24	static
+../src/Harish_Marepalli_016707314_3D_cube_sphere.c:144:6:setAddrWindow	24	static
+../src/Harish_Marepalli_016707314_3D_cube_sphere.c:159:6:fillrect	32	static
+../src/Harish_Marepalli_016707314_3D_cube_sphere.c:176:6:lcddelay	24	static
+../src/Harish_Marepalli_016707314_3D_cube_sphere.c:185:6:lcd_init	16	static
+../src/Harish_Marepalli_016707314_3D_cube_sphere.c:223:9:xCartesian	16	static
+../src/Harish_Marepalli_016707314_3D_cube_sphere.c:229:9:yCartesian	16	static
+../src/Harish_Marepalli_016707314_3D_cube_sphere.c:235:6:drawPixel	16	static
+../src/Harish_Marepalli_016707314_3D_cube_sphere.c:266:6:drawLine	40	static
+../src/Harish_Marepalli_016707314_3D_cube_sphere.c:327:6:drawCube	1752	static
+../src/Harish_Marepalli_016707314_3D_cube_sphere.c:405:6:drawSphere	14032	static
+../src/Harish_Marepalli_016707314_3D_cube_sphere.c:486:5:main	24	static
