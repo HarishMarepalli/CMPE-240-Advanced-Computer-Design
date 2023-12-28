@@ -1,0 +1,1 @@
+These are the projects done for this course. Clone and use them.
